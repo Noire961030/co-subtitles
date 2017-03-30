@@ -6,26 +6,26 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Downloads/1800x vs 6900k Showdown - AMD Ryzen 7 vs Intel Broadwell-E.mp4
-Video File: ../../../Downloads/1800x vs 6900k Showdown - AMD Ryzen 7 vs Intel Broadwell-E.mp4
+Audio File: ../../1800x vs 6900k Showdown - AMD Ryzen 7 vs Intel Broadwell-E.mp4
+Video File: ../../1800x vs 6900k Showdown - AMD Ryzen 7 vs Intel Broadwell-E.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 283
-Active Line: 292
-Video Position: 17833
+Scroll Position: 257
+Active Line: 263
+Video Position: 16434
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: author,.PingFang SC,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: chinese,.PingFang SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: english,.PingFang SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
-Style: topdes,.PingFang SC,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,11,11,11,1
+Style: author,.PingFang SC,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
+Style: chinese,.PingFang SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
+Style: english,.PingFang SC,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
+Style: topdes,.PingFang SC,53,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -131,23 +131,23 @@ Dialogue: 0,0:04:03.47,0:04:07.88,english,,0,0,0,,so first we gonna do some prod
 Dialogue: 0,0:04:03.47,0:04:07.88,chinese,,0,0,0,,首先我们要做一些有生产力的测试，我们要开始一些游戏评分测试
 Dialogue: 0,0:04:08.15,0:04:13.37,english,,0,0,0,,at all three major resolutions 1080p 1440p and 4k so let's get into
 Dialogue: 0,0:04:08.15,0:04:13.37,chinese,,0,0,0,,主要三种分辨率：1080P 1440P和4K。让我们开始吧
-Dialogue: 0,0:04:15.55,0:04:20.49,topdes,,0,0,0,,{\pos(568,284)}Cinebench R15 测试评分（单线程）
-Dialogue: 0,0:04:20.55,0:04:26.00,topdes,,0,0,0,,{\pos(568,284)}Cinebench R15 测试评分 （多线程）
-Dialogue: 0,0:04:28.20,0:04:32.88,topdes,,0,0,0,,{\pos(644,324)}Handbrake软件转码13分1080p视频所需时间
-Dialogue: 0,0:04:38.54,0:04:44.47,topdes,,0,0,0,,{\pos(684,300)}3dMark 物理测试（火力打击 极限模式1440p）
-Dialogue: 0,0:04:44.47,0:04:49.75,topdes,,0,0,0,,{\pos(684,300)}3dMark 综合测试（火力打击 极限模式1440p）
-Dialogue: 0,0:04:53.54,0:04:59.59,topdes,,0,0,0,,{\pos(380,304)}阴影测试 DX11 1080p
-Dialogue: 0,0:05:00.54,0:05:05.55,topdes,,0,0,0,,{\pos(380,304)}阴影测试 DX11 1440p
-Dialogue: 0,0:05:06.00,0:05:10.00,topdes,,0,0,0,,{\pos(380,304)}阴影测试 DX11 2160p
-Dialogue: 0,0:05:15.28,0:05:20.99,topdes,,0,0,0,,{\pos(716,212)}Dirt Rally(大地长征)游戏帧率测试 DX11 1080p
-Dialogue: 0,0:05:21.00,0:05:27.50,topdes,,0,0,0,,{\pos(716,212)}Dirt Rally(大地长征)游戏帧率测试 DX11 1440p
-Dialogue: 0,0:05:28.00,0:05:32.22,topdes,,0,0,0,,{\pos(716,212)}Dirt Rally(大地长征)游戏帧率测试 DX11 2160p
-Dialogue: 0,0:05:36.28,0:05:41.28,topdes,,0,0,0,,{\pos(736,244)}杀出重围：人类分裂 游戏帧率测试 DX12 1080p
-Dialogue: 0,0:05:41.40,0:05:45.99,topdes,,0,0,0,,{\pos(736,244)}杀出重围：人类分裂 游戏帧率测试 DX12 1440p
-Dialogue: 0,0:05:46.00,0:05:51.10,topdes,,0,0,0,,{\pos(736,244)}杀出重围：人类分裂 游戏帧率测试 DX12 2160p
-Dialogue: 0,0:05:54.10,0:05:58.99,topdes,,0,0,0,,{\pos(636,248)}古墓奇兵崛起 游戏帧率测试 DX12 1080p
-Dialogue: 0,0:05:59.00,0:06:04.20,topdes,,0,0,0,,{\pos(636,248)}古墓奇兵崛起 游戏帧率测试 DX12 1440p
-Dialogue: 0,0:06:04.48,0:06:08.38,topdes,,0,0,0,,{\pos(636,248)}古墓奇兵崛起 游戏帧率测试 DX12 2160p
+Dialogue: 0,0:04:15.55,0:04:20.49,topdes,,0,0,0,,{\pos(378.667,189.333)}Cinebench R15 测试评分（单线程）
+Dialogue: 0,0:04:20.55,0:04:26.00,topdes,,0,0,0,,{\pos(378.667,189.333)}Cinebench R15 测试评分 （多线程）
+Dialogue: 0,0:04:28.20,0:04:32.88,topdes,,0,0,0,,{\pos(429.333,216)}Handbrake软件转码13分1080p视频所需时间
+Dialogue: 0,0:04:38.54,0:04:44.47,topdes,,0,0,0,,{\pos(456,200)}3dMark 物理测试（火力打击 极限模式1440p）
+Dialogue: 0,0:04:44.47,0:04:49.75,topdes,,0,0,0,,{\pos(456,200)}3dMark 综合测试（火力打击 极限模式1440p）
+Dialogue: 0,0:04:53.54,0:04:59.59,topdes,,0,0,0,,{\pos(253.333,202.667)}阴影测试 DX11 1080p
+Dialogue: 0,0:05:00.54,0:05:05.55,topdes,,0,0,0,,{\pos(253.333,202.667)}阴影测试 DX11 1440p
+Dialogue: 0,0:05:06.00,0:05:10.00,topdes,,0,0,0,,{\pos(253.333,202.667)}阴影测试 DX11 2160p
+Dialogue: 0,0:05:15.28,0:05:20.99,topdes,,0,0,0,,{\pos(477.333,141.333)}Dirt Rally(大地长征)游戏帧率测试 DX11 1080p
+Dialogue: 0,0:05:21.00,0:05:27.50,topdes,,0,0,0,,{\pos(477.333,141.333)}Dirt Rally(大地长征)游戏帧率测试 DX11 1440p
+Dialogue: 0,0:05:28.00,0:05:32.22,topdes,,0,0,0,,{\pos(477.333,141.333)}Dirt Rally(大地长征)游戏帧率测试 DX11 2160p
+Dialogue: 0,0:05:36.28,0:05:41.28,topdes,,0,0,0,,{\pos(490.667,162.667)}杀出重围：人类分裂 游戏帧率测试 DX12 1080p
+Dialogue: 0,0:05:41.40,0:05:45.99,topdes,,0,0,0,,{\pos(490.667,162.667)}杀出重围：人类分裂 游戏帧率测试 DX12 1440p
+Dialogue: 0,0:05:46.00,0:05:51.10,topdes,,0,0,0,,{\pos(490.667,162.667)}杀出重围：人类分裂 游戏帧率测试 DX12 2160p
+Dialogue: 0,0:05:54.10,0:05:58.99,topdes,,0,0,0,,{\pos(424,165.333)}古墓奇兵崛起 游戏帧率测试 DX12 1080p
+Dialogue: 0,0:05:59.00,0:06:04.20,topdes,,0,0,0,,{\pos(424,165.333)}古墓奇兵崛起 游戏帧率测试 DX12 1440p
+Dialogue: 0,0:06:04.48,0:06:08.38,topdes,,0,0,0,,{\pos(424,165.333)}古墓奇兵崛起 游戏帧率测试 DX12 2160p
 Dialogue: 0,0:06:09.35,0:06:13.31,english,,0,0,0,,and we're back so quite interesting there
 Dialogue: 0,0:06:09.35,0:06:13.31,chinese,,0,0,0,,我们回来了，十分有趣
 Dialogue: 0,0:06:13.35,0:06:18.54,english,,0,0,0,,you see the productivity results are phenomenal with 1800x so very very good
